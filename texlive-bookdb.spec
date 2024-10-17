@@ -3,7 +3,7 @@ Version:	37536
 Release:	2
 Summary:	A BibTeX style file for cataloguing a home library
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bookdb
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/bookdb
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bookdb.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bookdb.doc.r%{version}.tar.xz
